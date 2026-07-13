@@ -1,12 +1,12 @@
-\# AI Voice Assistant
+# AI Voice Assistant
 
-\## Project Overview
+## Project Overview
 
 This project is a local-first, voice-activated AI assistant. It integrates speech-to-text, local Large Language Model (LLM) inference, and text-to-speech technologies to create a fully private, voice-controlled interaction loop. Because it runs entirely on your machine, your conversation history and data remain local.
 
 
 
-\# Features
+# Features
 
 * Privacy-Focused: Powered by Ollama, meaning no data is sent to external cloud APIs for processing.
 * Persistent Memory: Automatically saves and loads your conversation history, allowing the assistant to maintain context across sessions.
