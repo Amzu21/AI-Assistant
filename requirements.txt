@@ -1,0 +1,6 @@
+whisper
+ollama
+pyaudio
+keyboard
+edge-tts
+pygame
