@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Audio/Voice files
+*.wav
+*.mp3
+
+# Storage/Data
+memory.json
+
+# Environment
+.env
+venv/
