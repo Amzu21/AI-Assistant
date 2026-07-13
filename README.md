@@ -6,7 +6,7 @@ This project is a local-first, voice-activated AI assistant. It integrates speec
 
 
 
-# Features
+## Features
 
 * Privacy-Focused: Powered by Ollama, meaning no data is sent to external cloud APIs for processing.
 * Persistent Memory: Automatically saves and loads your conversation history, allowing the assistant to maintain context across sessions.
